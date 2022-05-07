@@ -2,7 +2,7 @@ program main
 	implicit none
 	
 	! cota mensal
-	integer :: X=0
+	integer :: X
 	!numero meses
 	integer :: N
 	!total megas
