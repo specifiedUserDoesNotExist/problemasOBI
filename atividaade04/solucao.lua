@@ -29,4 +29,4 @@ end
 
 print(f(22))
 compara(900, 1000)
-compara(100, 200)
+compara(100, 200) 
