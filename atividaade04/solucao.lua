@@ -27,6 +27,6 @@ function compara(m, n) -- m<n
 	print(maxNum, maxTam)
 end
 
-print(f(22))
-compara(900, 1000)
-compara(100, 200) 
+print(f(22)) --> 16
+compara(900, 1000) --> 937 174
+compara(100, 200) --> 171 125
